@@ -60,7 +60,6 @@ describe("Saucedemo", () => {
     //add to cart "Sauce Labs Backpack"
     HomePage.addToCartSauceLabsBackpack.click();
     //add to cart "Sauce Labs Bolt T-Shirt"
-    HomePage.addToCartSauceLabTShirt.click();
     //open cart create CartsPage object
     //validate that we see "Sauce Labs Backpack" and "Sauce Labs Bolt T-Shirt"
     //validate that we see 2 items in cart list
